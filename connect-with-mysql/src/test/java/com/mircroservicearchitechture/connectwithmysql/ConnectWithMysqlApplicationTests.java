@@ -1,4 +1,4 @@
-package com.mircroservicearchitechture.connectwithmysql.connectwithmysql;
+package com.mircroservicearchitechture.connectwithmysql;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

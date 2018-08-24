@@ -1,4 +1,4 @@
-package com.mircroservicearchitechture.connectwithmysql.connectwithmysql;
+package com.mircroservicearchitechture.connectwithmysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
